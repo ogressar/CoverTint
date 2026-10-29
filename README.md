@@ -6,8 +6,6 @@
 
 **Версия:** 1.0.0 · **Автор:** [ogressar](https://github.com/ogressar)
 
-### [Скачать CoverTint 1.0 (.pext)](downloads/CoverTint-1.0.pext?raw=true)
-
 ## Возможности
 
 - Адаптивные цвета меняются вместе с треком, даже при закрытом большом плеере.
