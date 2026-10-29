@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "title": "Оформление CoverTint",
+      "items": [
+        {
+          "id": "adaptive",
+          "name": "Адаптивные цвета",
+          "description": "Подстраивать оформление приложения и нижнего плеера под палитру текущего трека.",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "explicitE",
+          "name": "Значок E",
+          "description": "Заменять отметку explicit на квадратный значок E. Выключите, чтобы вернуть исходный значок.",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "tintedText",
+          "name": "Оттенок текста и иконок",
+          "description": "Добавлять оттенки палитры к тексту и иконкам. При выключении использовать нейтральные светлые тона.",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "darker",
+          "name": "Более тёмный фон",
+          "description": "Сильнее затемнять фон, сохраняя его цветовой оттенок.",
+          "type": "button",
+          "bool": false,
+          "defaultParameter": false
+        },
+        {
+          "id": "smooth",
+          "name": "Плавная смена цветов",
+          "description": "Плавно менять цвета основных панелей. Учитывает системную настройку уменьшения анимации.",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        }
+      ]
+    }
+  ]
+}
